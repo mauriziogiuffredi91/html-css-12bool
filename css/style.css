@@ -1,0 +1,29 @@
+/* Tutto quello che riguarda lo stile generale bonus */
+
+body{
+    min-height: 100vh;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 3rem 0;
+
+}
+
+h1,
+h2{
+    margin: 2rem 0;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+.main-container{
+    background-color: white;
+    border: 2px solid black;
+    width: 1168px;
+    height: 410px;
+}
+.box{
+    background-color:#ebecf0;
+    border: 1px solid #c4c3c9 ;
+    padding: 10px;
+    text-align: center;
+}
