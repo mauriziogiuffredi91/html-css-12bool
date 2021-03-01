@@ -10,7 +10,13 @@ body{
 
 h1,
 h2{
-    margin: 4rem 0;
+    margin: 1rem 0;
     font-weight: 400;
     text-align: center;
+}
+
+.box{
+    background-color: #e1aac1;
+    border: 1px solid #8e6979;
+    padding: 10px;
 }
